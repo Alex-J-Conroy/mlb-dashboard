@@ -54,10 +54,10 @@ mlb-dashboard/ ├── data/ # Contains MLB stats (see below) │ ├── Ba
 ---
 
 ## 📊 Sample Visualisations
-- Include screenshots here from the images/ folder:
-- Radar plot comparing multiple players
-- Team-level bar chart by season
-- Positional breakdowns
+- ![radar](https://github.com/user-attachments/assets/60910d61-6e47-4fc4-9697-a11768d39de3)
+- ![dashboard with layout](https://github.com/user-attachments/assets/970f8d8a-cc92-44e4-85ff-79e37c476dc7)
+- ![pitching IP bar](https://github.com/user-attachments/assets/530b963c-4aa8-4e2a-bc2a-138bab03dfd0)
+
 
 ## 🔮 Future Improvements
 - Integrate live data feeds via API
